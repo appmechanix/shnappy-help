@@ -45,7 +45,7 @@ function initialize (config) {
   var app = express();
 
   // Setup Port
-  app.set('port', process.env.PORT || 3000);
+  app.set('port', process.env.PORT || 3004);
 
   // set locale as date and time format
   moment.locale(config.locale);
