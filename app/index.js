@@ -94,6 +94,8 @@ function initialize (config) {
     app.post('/rn-add-category', authenticate, route_category_create);
   }
 
+  app.get('/search', route_search);
+
   // Router for / and /index with or without search parameter
   app.get('/:var(index)?', route_search, route_home);
   app.get(/^([^.]*)/, route_wildcard);
@@ -102,7 +104,6 @@ function initialize (config) {
   app.use(error_handler);
 
   return app;
-
 }
 
 // Exports
