@@ -9,7 +9,7 @@ var config = {
   base_url: '/docs',
 
   // Used for the "Get in touch" page footer link
-  support_email: 'hello@shnappy.com',
+  support_email: 'aibf586s@incoming.intercom.io',
 
   // Footer Text / Copyright
   copyright: '&copy; ' + new Date().getFullYear() + ' Shnappy',
