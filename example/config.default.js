@@ -6,7 +6,7 @@ var config = {
   site_title: 'Shnappy Help Center',
 
   // The base URL of your site (can use %base_url% in Markdown files)
-  base_url: '',
+  base_url: 'https://shnappy.com/docs/',
 
   // Used for the "Get in touch" page footer link
   support_email: 'hello@shnappy.com',
