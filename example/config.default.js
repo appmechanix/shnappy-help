@@ -1,12 +1,14 @@
 'use strict';
 
+var c = require('config');
+
 var config = {
 
   // Your site title (format: page_title - site_title)
   site_title: 'Shnappy Help Center',
 
   // The base URL of your site (can use %base_url% in Markdown files)
-  base_url: '/docs',
+  base_url: c.baseUrl,
 
   // Used for the "Get in touch" page footer link
   support_email: 'aibf586s@incoming.intercom.io',
@@ -40,7 +42,7 @@ var config = {
   // The base URL of your images folder,
   // Relative to config.public_dir
   // (can use %image_url% in Markdown files)
-  image_url: '/docs/images',
+  image_url: c.baseUrl + '/images',
 
   // Add your analytics tracking code (including script tags)
   analytics: '',
