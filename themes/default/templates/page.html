@@ -6,7 +6,7 @@
       {{#canEdit}}
         <li><input id="newCategory" type="text" class="form-control" placeholder="{{lang.page.addCategory}}"/></li>
       {{/canEdit}}
-      
+
       {{#pages}}
         <li class="category">
           {{#is_index}}
@@ -52,6 +52,7 @@
           </div>
         {{/config.support_email}}
         <div class="last-updated pull-right">
+          {{userhash}}
           {{lang.global.lastUpdated}} {{last_modified}}
         </div>
       </div>
