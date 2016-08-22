@@ -12,7 +12,7 @@ var config = {
   support_email: 'hello@shnappy.com',
 
   // Footer Text / Copyright
-  copyright: '&copy; ' + new Date().getFullYear() + " Shnappy",
+  copyright: '&copy; ' + new Date().getFullYear() + ' Shnappy',
 
   // Excerpt length (used in search)
   excerpt_length: 400,
