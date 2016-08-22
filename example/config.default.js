@@ -9,7 +9,7 @@ var config = {
   base_url: '',
 
   // Used for the "Get in touch" page footer link
-  support_email: '',
+  support_email: 'hello@shnappy.com',
 
   // Footer Text / Copyright
   copyright: '&copy; ' + new Date().getFullYear() + " Shnappy",
@@ -49,7 +49,7 @@ var config = {
   allow_editing: false,
 
   // Set to true to enable HTTP Basic Authentication
-  authentication: true,
+  authentication: false,
   credentials: [
     {
       username: 'daniel',
