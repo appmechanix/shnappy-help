@@ -5,4 +5,4 @@ Shnappy can display your logo alongside or instead of your studio name on client
 * Login to Shnappy if you're not already
 * Jump into your Studio tab
 * Choose Branding from the sidebar and scroll down to Logo <img src="%image_url%/branding/logo/shot1.png">
-* Click Change logo and select the appropriate file <img src="%image_url%/branding/logo/shot2.png">
+* Click 'Change logo' and select your file <img src="%image_url%/branding/logo/shot2.png">
