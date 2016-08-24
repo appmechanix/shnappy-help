@@ -13,8 +13,8 @@ Shnappy currently only supports the PNG file type because it allows for transpar
 
 #### Turning off for selected clients
 
-Login to the Shnappy admin, find the client and press setting. Turn off "Automatically watermark images"
+Login to the Shnappy admin, find the client and press settings. Turn off "Automatically watermark images"
 
-#### I can't see my watermark?
+#### I can't see my watermark
 
 Only the client interface shows watermarks - the admin shows you your images as you uploaded them.
