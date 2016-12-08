@@ -1,0 +1,1 @@
+Contacts are used to remember who you've emailed and shared photos with. 

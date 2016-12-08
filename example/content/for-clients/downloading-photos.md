@@ -1,4 +1,3 @@
-
 ##### Please note
 
 Your photographer can choose to allow or disallow photo downloads.
